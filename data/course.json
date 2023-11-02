@@ -1,0 +1,34 @@
+{
+  "term": "",
+  "year": "2023",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "cbf55656-9ce7-0306-19fa-c73781642ee4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-title"
+  },
+  "course_title": "test-title",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-title"
+  },
+  "learning_resource_types": [],
+  "site_uid": "2e9e837b-8f6d-4dac-aa14-abf8ecc99eb3",
+  "site_short_id": "TEST-ID"
+}
